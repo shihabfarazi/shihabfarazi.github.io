@@ -1,1 +1,10 @@
 *{margin: 0; padding: 0;}
+body{
+    font-family: 'montserrat', sans-serif;
+}
+.banner-container{
+    background-color: #ddd;
+}
+.banner-content{
+    background-color: #808080;
+}
